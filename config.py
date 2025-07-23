@@ -1,1 +1,6 @@
-TOKEN = "7373419973:AAEYMy7UbcQF0fMi_WBjdNypLUIye3iZD9A"
+TOKEN = '7373419973:AAEYMy7UbcQF0fMi_WBjdNypLUIye3iZD9A'
+DB_NAME = 'bookstore'
+DB_USER = 'postgres'
+DB_PASSWORD = '1'
+DB_HOST = 'localhost'
+DB_PORT = '5432'
